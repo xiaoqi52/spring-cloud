@@ -1,13 +1,12 @@
-package com.example.fegin;
+package com.example.userservcie;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class FeginApplication {
+public class UserServcieApplication {
 
   public static void main(String[] args) {
-    SpringApplication.run(FeginApplication.class, args);
+    SpringApplication.run(UserServcieApplication.class, args);
   }
-
 }

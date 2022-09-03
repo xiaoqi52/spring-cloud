@@ -1,13 +1,11 @@
-package com.example.fegin;
+package com.example.userservcie;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class FeginApplicationTests {
+class UserServcieApplicationTests {
 
   @Test
-  void contextLoads() {
-  }
-
+  void contextLoads() {}
 }
