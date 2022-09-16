@@ -5,7 +5,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * @author xiaoqi
+ * @author hongchanglin
+ * @date 2022年09月02日 10:08
+ * @description 使用者启动器
  */
 @EnableDubbo
 @SpringBootApplication

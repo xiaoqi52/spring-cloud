@@ -1,13 +1,14 @@
 package com.example.provider.service.impl;
 
 import com.alibaba.dubbo.config.annotation.Service;
-import com.example.commoninterface.bean.User;
-import com.example.commoninterface.service.UserService;
+import com.example.common.bean.User;
+import com.example.common.service.UserService;
 import org.springframework.stereotype.Component;
 
 /**
  * @author hongchanglin
  * @date 2022年09月01日 18:35
+ * @description 提供者服务类
  */
 @Service
 @Component
